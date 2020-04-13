@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>江南一点雨</title>
+    <script src="/jquery-3.5.0.min.js"></script>
+</head>
+<body>
+你好，江南一点雨！
+
+<a href="http://localhost:8080/oauth/authorize?client_id=javaboy&response_type=token&scope=all&redirect_uri=http://localhost:8082/index.html">第三方登录（简化模式）</a>
+
+<div id="div1"></div>
+<script>
+    var hash = window.location.hash;//提取出参数，类似这种格式#access_token=9fda1800-3b57-4d32-ad01-05ff700d44cc&token_type=bearer&expires_in=7199
+    if (hash && hash.length > 0) {
+        var params = hash.substring(1).split("&");
+        var token = params[0].split("=");//[access_token,9fda1800-3b57-4d32-ad01-05ff700d44cc]
+        $.ajax({
+            type: 'get',
+            headers: {
+                'Authorization': 'Bearer ' + token[1]
+            },
+            url: 'http://localhost:8081/admin/hello',
+            success: function (data) {
+                $("#div1").html(data)
+            }
+        })
+    }
+</script>
+</body>
+</html>

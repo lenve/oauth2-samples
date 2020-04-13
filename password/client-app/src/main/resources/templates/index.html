@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>江南一点雨</title>
+</head>
+<body>
+你好，江南一点雨！
+
+<form action="/login" method="post">
+    <table>
+        <tr>
+            <td>用户名：</td>
+            <td><input name="username"></td>
+        </tr>
+        <tr>
+            <td>密码：</td>
+            <td><input name="password"></td>
+        </tr>
+        <tr>
+            <td><input type="submit" value="登录"></td>
+        </tr>
+    </table>
+</form>
+<h1 th:text="${msg}"></h1>
+</body>
+</html>
