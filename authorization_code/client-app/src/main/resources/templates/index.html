@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>江南一点雨</title>
+</head>
+<body>
+你好，江南一点雨！
+
+<a href="http://localhost:8080/oauth/authorize?client_id=javaboy&response_type=code&scope=all&redirect_uri=http://localhost:8082/index.html">第三方登录</a>
+
+<h1 th:text="${msg}"></h1>
+</body>
+</html>
