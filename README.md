@@ -10,7 +10,7 @@
 
 |Demo|文章|
 |:---|:---|
-|authorization_code|待更新|
+|authorization_code|[这个案例写出来，还怕跟面试官扯不明白 OAuth2 登录流程？](https://mp.weixin.qq.com/s/GXMQI59U6uzmS-C0WQ5iUw)|
 |client_credentials|待更新|
 |implicit|待更新|
 |password|待更新|
