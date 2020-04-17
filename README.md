@@ -14,4 +14,4 @@
 |client_credentials|[死磕 OAuth2，教练我要学全套的！](https://mp.weixin.qq.com/s/33Oxu6YMjwco3WRE07_IiQ)|
 |implicit|[死磕 OAuth2，教练我要学全套的！](https://mp.weixin.qq.com/s/33Oxu6YMjwco3WRE07_IiQ)|
 |password|[死磕 OAuth2，教练我要学全套的！](https://mp.weixin.qq.com/s/33Oxu6YMjwco3WRE07_IiQ)|
-|authorization_code_redis|[死磕 OAuth2，教练我要学全套的！](https://mp.weixin.qq.com/s/33Oxu6YMjwco3WRE07_IiQ)|
+|authorization_code_redis|[OAuth2 令牌还能存入 Redis ？越玩越溜！](https://mp.weixin.qq.com/s/cGopy8hDPtkn8Q7HUYabbA)|
