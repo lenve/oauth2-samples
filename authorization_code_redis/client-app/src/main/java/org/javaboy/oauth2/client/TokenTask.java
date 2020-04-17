@@ -11,6 +11,7 @@ import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
 import org.springframework.web.client.RestClientException;
 import org.springframework.web.client.RestTemplate;
+import org.springframework.web.context.annotation.SessionScope;
 
 import java.util.Map;
 
@@ -24,6 +25,7 @@ import java.util.Map;
  * @Gitee https://gitee.com/lenve
  */
 @Component
+@SessionScope
 public class TokenTask {
     @Autowired
     RestTemplate restTemplate;
