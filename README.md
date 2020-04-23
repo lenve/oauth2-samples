@@ -15,3 +15,5 @@
 |implicit|[死磕 OAuth2，教练我要学全套的！](https://mp.weixin.qq.com/s/33Oxu6YMjwco3WRE07_IiQ)|
 |password|[死磕 OAuth2，教练我要学全套的！](https://mp.weixin.qq.com/s/33Oxu6YMjwco3WRE07_IiQ)|
 |authorization_code_redis|[OAuth2 令牌还能存入 Redis ？越玩越溜！](https://mp.weixin.qq.com/s/cGopy8hDPtkn8Q7HUYabbA)|
+|jwt|[想让 OAuth2 和 JWT 在一起愉快玩耍？请看松哥的表演](https://mp.weixin.qq.com/s/xEIWTduDqQuGL7lfiP735w)|
+|oauth2-sso|[Spring Boot+OAuth2，一个注解搞定单点登录！](https://mp.weixin.qq.com/s/EyAMTbKPqNNnEtZACIsMVw)|
