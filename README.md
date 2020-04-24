@@ -17,3 +17,4 @@
 |authorization_code_redis|[OAuth2 令牌还能存入 Redis ？越玩越溜！](https://mp.weixin.qq.com/s/cGopy8hDPtkn8Q7HUYabbA)|
 |jwt|[想让 OAuth2 和 JWT 在一起愉快玩耍？请看松哥的表演](https://mp.weixin.qq.com/s/xEIWTduDqQuGL7lfiP735w)|
 |oauth2-sso|[Spring Boot+OAuth2，一个注解搞定单点登录！](https://mp.weixin.qq.com/s/EyAMTbKPqNNnEtZACIsMVw)|
+|github_login|[分分钟让自己的网站接入 GitHub 第三方登录功能](https://mp.weixin.qq.com/s/tq4Q306J3hJFEtGL1EpOBA)|
