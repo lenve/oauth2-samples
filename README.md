@@ -18,3 +18,9 @@
 |jwt|[想让 OAuth2 和 JWT 在一起愉快玩耍？请看松哥的表演](https://mp.weixin.qq.com/s/xEIWTduDqQuGL7lfiP735w)|
 |oauth2-sso|[Spring Boot+OAuth2，一个注解搞定单点登录！](https://mp.weixin.qq.com/s/EyAMTbKPqNNnEtZACIsMVw)|
 |github_login|[分分钟让自己的网站接入 GitHub 第三方登录功能](https://mp.weixin.qq.com/s/tq4Q306J3hJFEtGL1EpOBA)|
+
+### 案例配套视频（付费）
+
+链接:https://pan.baidu.com/s/184jGNKlrDYkdqRS8igYL_Q  密码:1tgf
+
+付费视频介绍：[Spring Boot + Vue 系列视频教程](https://mp.weixin.qq.com/s/1k4CZ6_re11fQM_6_00jCw)
